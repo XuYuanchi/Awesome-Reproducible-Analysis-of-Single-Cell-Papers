@@ -12,6 +12,7 @@ The listed papers provide the code necessary for reproducing the figures or resu
 
 ## scRNA-seq
 1. [2023 Cancer Cell]**Tumor monocyte content predicts immunochemotherapy outcomes in esophageal adenocarcinoma**[[paper]](https://www.sciencedirect.com/science/article/pii/S1535610823002167?via%3Dihub)[[code]](https://zenodo.org/record/8083316)
+2. [2022 Molecular Neurodegeneration]**Guidelines for bioinformatics of single-cell sequencing data analysis in Alzheimer’s disease: review, recommendation, implementation and application**[[paper]](https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-022-00517-z#Abs1)[[code]](https://github.com/songw01/AD_scRNAseq_companion) 
 ## scATAC-seq
 1. [2023 eLife]**The single-cell chromatin accessibility landscape in mouse perinatal testis development**[[paper]](https://elifesciences.org/articles/75624#abstract)[[code]](https://github.com/liaojinyue/mouse_testis_scATAC)
 
