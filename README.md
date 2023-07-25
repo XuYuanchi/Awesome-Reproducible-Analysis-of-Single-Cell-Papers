@@ -23,3 +23,4 @@ The listed papers only include single-cell omics data analysis and provide the c
 
 ## Spatial Transcriptome
 1. [2023 Science Advances]**Single-cell and spatial transcriptome analysis reveals the cellular heterogeneity of liver metastatic colorectal cancer**[[paper]](https://www.science.org/doi/full/10.1126/sciadv.adf5464)[[code]](https://github.com/jalon9358/LianLab_CRCLM)
+2. [2023 Cancer Research]**Spatial Transcriptomics Depict Ligand–Receptor Cross-talk Heterogeneity at the Tumor-Stroma Interface in Long-Term Ovarian Cancer Survivors**[[paper]](https://aacrjournals.org/cancerres/article-abstract/83/9/1503/726052/Spatial-Transcriptomics-Depict-Ligand-Receptor?redirectedFrom=fulltext)[[code]](https://codeocean.com/capsule/1912679/tree/v1)
