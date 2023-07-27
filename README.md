@@ -21,6 +21,7 @@ The listed papers only include single-cell omics data analysis and provide the c
 3. [2022 Nature Cancer]**Breast cancer prevention by short-term inhibition of TGFβ signaling**[[paper]](https://www.nature.com/articles/s41467-022-35043-5)[[code]](https://github.com/csimona/tumor-prevention-rat-scRNAseq)
 ## scATAC-seq
 1. [2023 eLife]**The single-cell chromatin accessibility landscape in mouse perinatal testis development**[[paper]](https://elifesciences.org/articles/75624#abstract)[[code]](https://github.com/liaojinyue/mouse_testis_scATAC)
+2. [2021 Nature biotechnology]**Integrative single-cell analysis of allele-specific copy number alterations and chromatin accessibility in cancer**[[paper]](https://www.nature.com/articles/s41587-021-00911-w#Abs1)[[code]](https://doi.org/10.24433/CO.2295856.v1)
 
 ## Spatial Transcriptome
 1. [2023 Science Advances]**Single-cell and spatial transcriptome analysis reveals the cellular heterogeneity of liver metastatic colorectal cancer**[[paper]](https://www.science.org/doi/full/10.1126/sciadv.adf5464)[[code]](https://github.com/jalon9358/LianLab_CRCLM)
