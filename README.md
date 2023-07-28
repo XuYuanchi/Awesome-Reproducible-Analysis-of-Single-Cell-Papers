@@ -3,7 +3,7 @@
 # Awesome-Reproducible-Analysis-of-Single-Cell-Papers
 A curated list of awesome reproducible papers in single-cell omics. 
 
-The listed papers only include single-cell omics data analysis and provide the code necessary for reproducing the figures or results.
+The listed papers provide the code necessary for reproducing the figures or results.
 
 ## Table of Contents
 
