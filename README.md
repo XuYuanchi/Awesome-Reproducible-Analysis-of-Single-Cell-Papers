@@ -16,9 +16,10 @@ The listed papers provide the code necessary for reproducing the figures or resu
 ## Guidelines for Single-Cell Analysis
 1. [2023 Nature Reviews Genetics]**Best practices for single-cell analysis across modalities**[[paper]](https://www.nature.com/articles/s41576-023-00586-w)[[code]](https://www.nature.com/articles/s41576-023-00586-w)
 ## scRNA-seq
-1. [2023 Cancer Cell]**Tumor monocyte content predicts immunochemotherapy outcomes in esophageal adenocarcinoma**[[paper]](https://www.sciencedirect.com/science/article/pii/S1535610823002167?via%3Dihub)[[code]](https://zenodo.org/record/8083316)
-2. [2022 Molecular Neurodegeneration]**Guidelines for bioinformatics of single-cell sequencing data analysis in Alzheimer’s disease: review, recommendation, implementation and application**[[paper]](https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-022-00517-z#Abs1)[[code]](https://github.com/songw01/AD_scRNAseq_companion)
-3. [2022 Nature Cancer]**Breast cancer prevention by short-term inhibition of TGFβ signaling**[[paper]](https://www.nature.com/articles/s41467-022-35043-5)[[code]](https://github.com/csimona/tumor-prevention-rat-scRNAseq)
+1. [2023 Nature medicine]**An integrated cell atlas of the lung in health and disease**[[paper]](https://www.nature.com/articles/s41591-023-02327-2#Abs1)[[code]](https://github.com/LungCellAtlas/HLCA_reproducibility)
+2. [2023 Cancer Cell]**Tumor monocyte content predicts immunochemotherapy outcomes in esophageal adenocarcinoma**[[paper]](https://www.sciencedirect.com/science/article/pii/S1535610823002167?via%3Dihub)[[code]](https://zenodo.org/record/8083316)
+3. [2022 Molecular Neurodegeneration]**Guidelines for bioinformatics of single-cell sequencing data analysis in Alzheimer’s disease: review, recommendation, implementation and application**[[paper]](https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-022-00517-z#Abs1)[[code]](https://github.com/songw01/AD_scRNAseq_companion)
+4. [2022 Nature Cancer]**Breast cancer prevention by short-term inhibition of TGFβ signaling**[[paper]](https://www.nature.com/articles/s41467-022-35043-5)[[code]](https://github.com/csimona/tumor-prevention-rat-scRNAseq)
 ## scATAC-seq
 1. [2023 Nature biotechnology]**SEACells infers transcriptional and epigenomic cellular states from single-cell genomics data**[[paper]](https://www.nature.com/articles/s41587-023-01716-9#Abs1)[[code]](https://github.com/dpeerlab/SEACellsReproducibility/tree/main/notebooks)
 2. [2023 eLife]**The single-cell chromatin accessibility landscape in mouse perinatal testis development**[[paper]](https://elifesciences.org/articles/75624#abstract)[[code]](https://github.com/liaojinyue/mouse_testis_scATAC)
