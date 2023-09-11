@@ -36,7 +36,7 @@ The listed papers provide the code necessary for reproducing the figures or resu
 2. [2023 Cancer Research]**Spatial Transcriptomics Depict Ligand–Receptor Cross-talk Heterogeneity at the Tumor-Stroma Interface in Long-Term Ovarian Cancer Survivors**[[paper]](https://aacrjournals.org/cancerres/article-abstract/83/9/1503/726052/Spatial-Transcriptomics-Depict-Ligand-Receptor?redirectedFrom=fulltext)[[code]](https://codeocean.com/capsule/1912679/tree/v1)
 3. [2022 Nature]**Spatial genomics maps the structure, nature and evolution of cancer clones**[[paper]](Spatial genomics maps the structure, nature and evolution of cancer clones)[[code]](https://github.com/gerstung-lab/BaSISS/tree/main)
 4. [2022 Nature methods]**Squidpy: a scalable framework for spatial omics analysis**[[paper]](https://www.nature.com/articles/s41592-021-01358-2)[[code]](https://github.com/theislab/squidpy_reproducibility/tree/master)
-5. [2022 bioRxiv]**Harmonized single-cell landscape, intercellular crosstalk and tumor architecture of glioblastoma**[[papper]](https://www.biorxiv.org/content/10.1101/2022.08.27.505439v1)[[code]](https://github.com/ccruizm/GBmap/tree/main)
+5. [2022 bioRxiv]**Harmonized single-cell landscape, intercellular crosstalk and tumor architecture of glioblastoma**[[paper]](https://www.biorxiv.org/content/10.1101/2022.08.27.505439v1)[[code]](https://github.com/ccruizm/GBmap/tree/main)
 6. [2021 Nature neuroscience]**Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex**[[paper]](https://www.nature.com/articles/s41593-020-00787-0)[[code]](https://github.com/LieberInstitute/HumanPilot/tree/master)
 
 ## Multiomics
