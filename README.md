@@ -10,6 +10,7 @@ The listed papers provide the code necessary for reproducing the figures or resu
 - [Guidelines for Single-Cell Analysis](#guidelines-for-single-cell-analysis)
 - [scRNA-seq](#scrna-seq)
 - [scATAC-seq](#scatac-seq)
+- [scHi-C](#schi-c)
 - [Spatial Transcriptome](#spatial-transcriptome)
 - [Multiomics](#multiomics)
 
@@ -35,6 +36,9 @@ The listed papers provide the code necessary for reproducing the figures or resu
 9. [2022 Nature communications]**Single-cell chromatin profiling of the primitive gut tube reveals regulatory dynamics underlying lineage fate decisions**[[paper]](https://www.nature.com/articles/s41467-022-30624-w#Abs1)[[code]](https://github.com/zang-lab/Single-cell-chromatin-profiling-of-the-primitive-gut-tube/tree/main)
 10. [2021 Nature biotechnology]**Integrative single-cell analysis of allele-specific copy number alterations and chromatin accessibility in cancer**[[paper]](https://www.nature.com/articles/s41587-021-00911-w#Abs1)[[code]](https://doi.org/10.24433/CO.2295856.v1)
 11. [2021 Nature communications]**High-throughput single-cell chromatin accessibility CRISPR screens enable unbiased identification of regulatory networks in cancer**[[paper]](https://www.nature.com/articles/s41467-021-23213-w#Sec1)[[code]](https://github.com/GreenleafLab/SpearATAC_MS_2021/tree/main)
+
+## scHi-C
+1. **Notes on single-cell Hi-C technologies, tools, and data**[[code]](https://github.com/mdozmorov/scHiC_notes)
 
 ## Spatial Transcriptome
 1. [2023 Science Advances]**Single-cell and spatial transcriptome analysis reveals the cellular heterogeneity of liver metastatic colorectal cancer**[[paper]](https://www.science.org/doi/full/10.1126/sciadv.adf5464)[[code]](https://github.com/jalon9358/LianLab_CRCLM)
