@@ -39,6 +39,7 @@ The listed papers provide the code necessary for reproducing the figures or resu
 
 ## scHi-C
 1. **Notes on single-cell Hi-C technologies, tools, and data**[[code]](https://github.com/mdozmorov/scHiC_notes)
+2. [2023 Nature communications]**Single cell Hi-C identifies plastic chromosome conformations underlying the gastrulation enhancer landscape**[[paper]](https://www.nature.com/articles/s41467-023-39549-4)[[code]](https://github.com/tanaylab/scHiC_embryo)
 
 ## Spatial Transcriptome
 1. [2023 Science Advances]**Single-cell and spatial transcriptome analysis reveals the cellular heterogeneity of liver metastatic colorectal cancer**[[paper]](https://www.science.org/doi/full/10.1126/sciadv.adf5464)[[code]](https://github.com/jalon9358/LianLab_CRCLM)
