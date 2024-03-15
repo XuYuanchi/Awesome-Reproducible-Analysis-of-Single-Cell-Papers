@@ -17,7 +17,7 @@ The listed papers provide the code necessary for reproducing the figures or resu
 ## Guidelines for Single-Cell Analysis
 1. [2023 Nature Reviews Genetics]**Best practices for single-cell analysis across modalities**[[paper]](https://www.nature.com/articles/s41576-023-00586-w)[[code]](https://www.nature.com/articles/s41576-023-00586-w)
 ## scRNA-seq
-1. [Nature]**Universal recording of immune cell interactions in vivo**[[paper]](https://www.nature.com/articles/s41586-024-07134-4)[[code]](https://github.com/pritykinlab/ulipstic-analysis/tree/main)
+1. [2024 Nature]**Universal recording of immune cell interactions in vivo**[[paper]](https://www.nature.com/articles/s41586-024-07134-4)[[code]](https://github.com/pritykinlab/ulipstic-analysis/tree/main)
 2. [2023 Nature Medicine]**An integrated cell atlas of the lung in health and disease**[[paper]](https://www.nature.com/articles/s41591-023-02327-2#Abs1)[[code]](https://github.com/LungCellAtlas/HLCA_reproducibility)
 3. [2023 Cancer Cell]**Tumor monocyte content predicts immunochemotherapy outcomes in esophageal adenocarcinoma**[[paper]](https://www.sciencedirect.com/science/article/pii/S1535610823002167?via%3Dihub)[[code]](https://zenodo.org/record/8083316)
 4. [2022 Molecular Neurodegeneration]**Guidelines for bioinformatics of single-cell sequencing data analysis in Alzheimer’s disease: review, recommendation, implementation and application**[[paper]](https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-022-00517-z#Abs1)[[code]](https://github.com/songw01/AD_scRNAseq_companion)
