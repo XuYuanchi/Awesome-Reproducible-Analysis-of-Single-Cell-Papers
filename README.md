@@ -18,7 +18,7 @@ The listed papers provide the code necessary for reproducing the figures or resu
 1. [2023 Nature Reviews Genetics]**Best practices for single-cell analysis across modalities**[[paper]](https://www.nature.com/articles/s41576-023-00586-w)[[code]](https://www.nature.com/articles/s41576-023-00586-w)
 ## scRNA-seq
 1. [2024 Nature]**Universal recording of immune cell interactions in vivo**[[paper]](https://www.nature.com/articles/s41586-024-07134-4)[[code]](https://github.com/pritykinlab/ulipstic-analysis/tree/main)
-2. [2024 Nature]**A single-cell time-lapse of mouse prenatal development from gastrula to birth**[[paper]](https://www.nature.com/articles/s41586-024-07069)[[code]](https://github.com/ChengxiangQiu/JAX_code/tree/main)
+2. [2024 Nature]**A single-cell time-lapse of mouse prenatal development from gastrula to birth**[[paper]](https://www.nature.com/articles/s41586-024-07069-w)[[code]](https://github.com/ChengxiangQiu/JAX_code/tree/main)
 3. [2024 Nature Cell Biology]**Multimodal and spatially resolved profiling identifies distinct patterns of T cell infiltration in nodal B cell lymphoma entities**[[paper]](https://www.nature.com/articles/s41556-024-01358-2)[[code]](https://github.com/Huber-group-EMBL/CITEseqLN-Tcells/tree/main)
 4. [2023 Nature Medicine]**An integrated cell atlas of the lung in health and disease**[[paper]](https://www.nature.com/articles/s41591-023-02327-2#Abs1)[[code]](https://github.com/LungCellAtlas/HLCA_reproducibility)
 5. [2023 Nature Communications]**Genomic and microenvironmental heterogeneity shaping epithelial-to-mesenchymal trajectories in cancer**[[paper]](https://www.nature.com/articles/s41467-023-36439-7)[[code]](https://github.com/secrierlab/EMT/tree/main)
