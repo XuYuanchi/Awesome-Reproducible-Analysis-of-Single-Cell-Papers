@@ -10,6 +10,7 @@ The listed papers provide the code necessary for reproducing the figures or resu
 - [Guidelines for Single-Cell Analysis](#guidelines-for-single-cell-analysis)
 - [scRNA-seq](#scrna-seq)
 - [scATAC-seq](#scatac-seq)
+- [single-cell Proteomics](#single-cell Proteomics)
 - [scHi-C](#schi-c)
 - [Spatial Transcriptome](#spatial-transcriptome)
 - [Multiomics](#multiomics)
@@ -43,6 +44,9 @@ The listed papers provide the code necessary for reproducing the figures or resu
 11. [2021 Science]**Developmental and evolutionary dynamics of cis-regulatory elements in mouse cerebellar cells**[[paper]](https://www.science.org/doi/10.1126/science.abg4696)[[code]](https://github.com/ioansarr/mouse-cerebellum-atac/tree/master)
 12. [2021 Nature Biotechnology]**Integrative single-cell analysis of allele-specific copy number alterations and chromatin accessibility in cancer**[[paper]](https://www.nature.com/articles/s41587-021-00911-w#Abs1)[[code]](https://doi.org/10.24433/CO.2295856.v1)
 13. [2021 Nature Communications]**High-throughput single-cell chromatin accessibility CRISPR screens enable unbiased identification of regulatory networks in cancer**[[paper]](https://www.nature.com/articles/s41467-021-23213-w#Sec1)[[code]](https://github.com/GreenleafLab/SpearATAC_MS_2021/tree/main)
+
+## single-cell Proteomics
+1. **Single Cell Proteomics Methods & Data**[[code]](https://scp.slavovlab.net/)
 
 ## scHi-C
 1. **Notes on single-cell Hi-C technologies, tools, and data**[[code]](https://github.com/mdozmorov/scHiC_notes)
