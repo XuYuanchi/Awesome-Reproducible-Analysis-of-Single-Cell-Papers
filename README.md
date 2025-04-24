@@ -95,3 +95,6 @@ The listed papers provide the code necessary for reproducing the figures or resu
 22. [2021 Molecular Cell]**A multi-omic single-cell landscape of human gynecologic malignancies**[[paper]](https://www.sciencedirect.com/science/article/pii/S109727652100842X?via%3Dihub)[[code]](https://github.com/RegnerM2015/scENDO_scOVAR_2020/tree/main)
 23. [2019 Nature]**Organoid single-cell genomic atlas uncovers human-specific features of brain development**[[paper]](https://www.nature.com/articles/s41586-019-1654-9))[[code]](https://github.com/quadbiolab/primate_cerebral_organoids)
 24. [2019 Nature Biotechnology]**Single-cell multiomic analysis identifies regulatory programs in mixed-phenotype acute leukemia**[[paper]](https://www.nature.com/articles/s41587-019-0332-7#Abs1)[[code]](https://github.com/GreenleafLab/MPAL-Single-Cell-2019/tree/master)
+
+## Spatial Multiomics
+1. [2025 Nature]**Spatial immune scoring system predicts hepatocellular carcinoma recurrence**[[paper]]([Spatial immune scoring system predicts hepatocellular carcinoma recurrence](https://www.nature.com/articles/s41586-025-08668-x#Abs1))[[code]](https://doi.org/10.24433/CO.7364332.v1)
