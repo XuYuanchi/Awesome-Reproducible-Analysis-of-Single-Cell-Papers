@@ -13,7 +13,8 @@ The listed papers provide the code necessary for reproducing the figures or resu
 - [single-cell Proteomics](#single-cell-Proteomics)
 - [scHi-C](#schi-c)
 - [Spatial Transcriptome](#spatial-transcriptome)
-- [Multiomics](#multiomics)
+- [Single-cell Multiomics](#single-cell-multiomics)
+- [Spatial Multiomics](#spatial-multiomics)
 
 ## Guidelines for Single-Cell Analysis
 1. [2023 Nature Reviews Genetics]**Best practices for single-cell analysis across modalities**[[paper]](https://www.nature.com/articles/s41576-023-00586-w)[[code]](https://www.nature.com/articles/s41576-023-00586-w)
